@@ -6,7 +6,14 @@
 #number2 {
    color: blue;
    font-size: 36px
+
 }
 .number3{
    font-size: 24px
+}
+
+#number4 {
+   background-color: rgb(146, 255, 113);
+   font-size: 24px;
+   font-weight: 1000;
 }
